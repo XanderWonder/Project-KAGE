@@ -4,7 +4,6 @@ One week, make it count.
 影 (かげ)
 1) shadow; silhouette; figure; shape
 2) light (stars, moon)
-
 The core concept of the two enemies; light and darkness.
 ## Plan
 ### Matthew
